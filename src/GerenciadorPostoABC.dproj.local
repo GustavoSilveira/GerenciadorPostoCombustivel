@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="controller"/>
+    <File Path="controller\types"/>
+    <File Path="controller\types\PostoABC.Controller.types.pas"/>
+    <File Path="controller\PostoABC.Controller.Contract.pas"/>
+    <File Path="controller\PostoABC.Controller.pas"/>
+    <File Path="model"/>
+    <File Path="model\components"/>
+    <File Path="model\components\connection"/>
+    <File Path="model\components\connection\PostoABC.Model.Components.Connection.Contract.pas"/>
+    <File Path="model\components\connection\PostoABC.Model.Components.Connection.FireDAC.pas"/>
+    <File Path="model\DAO"/>
+    <File Path="model\DAO\PostoABC.Model.DAO.Abastecimento.pas"/>
+    <File Path="model\DAO\PostoABC.Model.DAO.Bomba.pas"/>
+    <File Path="model\DAO\PostoABC.Model.DAO.Contract.pas"/>
+    <File Path="model\DAO\PostoABC.Model.DAO.Tanque.pas"/>
+    <File Path="model\entities"/>
+    <File Path="model\entities\PostoABC.Model.Entities.Abastecimento.pas"/>
+    <File Path="model\entities\PostoABC.Model.Entities.Bomba.pas"/>
+    <File Path="model\entities\PostoABC.Model.Entities.Tanque.pas"/>
+    <File Path="view"/>
+    <File Path="view\PostoABC.View.Bomba.pas"/>
+    <File Path="view\PostoABC.View.Bomba.dfm"/>
+    <File Path="view\PostoABC.View.Principal.pas"/>
+    <File Path="view\PostoABC.View.Principal.dfm"/>
+    <File Path="view\PostoABC.View.RelatorioAbastecimentos.pas"/>
+    <File Path="view\PostoABC.View.RelatorioAbastecimentos.dfm"/>
+    <File Path="view\PostoABC.View.Tanque.pas"/>
+    <File Path="view\PostoABC.View.Tanque.dfm"/>
+    <File Path="view\PostoABC.View.RelatorioAbastecimentosParametros.pas"/>
+    <File Path="view\PostoABC.View.RelatorioAbastecimentosParametros.dfm"/>
+  </ProjectSortOrder>
+	<Transactions>
+    <Transaction>2024/03/18 16:01:16.000.143,D:\DELPHI-TESTE\GerenciadorPosto-master\src\GerenciadorPostoABC.dproj=D:\DELPHI-TESTE\GerenciadorPosto-master\src\PostoABC.dproj</Transaction>
+    <Transaction>2024/03/19 00:45:01.000.513,=D:\DELPHI-TESTE\GerenciadorPosto-master\src\Unit1.pas</Transaction>
+    <Transaction>2024/03/19 00:46:17.000.994,D:\DELPHI-TESTE\GerenciadorPosto-master\src\Unit1.dfm=D:\DELPHI-TESTE\GerenciadorPosto-master\src\view\PostoABC.View.RelatorioAbastecimentosParametros.dfm</Transaction>
+    <Transaction>2024/03/19 00:46:17.000.994,D:\DELPHI-TESTE\GerenciadorPosto-master\src\Unit1.pas=D:\DELPHI-TESTE\GerenciadorPosto-master\src\view\PostoABC.View.RelatorioAbastecimentosParametros.pas</Transaction>
+    <Transaction>2024/03/19 01:03:50.000.810,D:\DELPHI-TESTE\GerenciadorPosto-master\src\view\PostoABC.View.RelatorioAbastecimentosParametros.pas=</Transaction>
+    <Transaction>2024/03/19 01:10:06.000.467,=D:\DELPHI-TESTE\GerenciadorPosto-master\src\view\PostoABC.View.RelatorioAbastecimentosParametros.pas</Transaction>
+  </Transactions>
+</BorlandProject>
